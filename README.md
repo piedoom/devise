@@ -1,3 +1,5 @@
+Why the change?  I dislike the default views devise gives enough to warrant it being convenient to fork for my own projects.  Underlying code involving program logic/security is not changed.
+
 ![Devise Logo](https://raw.github.com/plataformatec/devise/master/devise.png)
 
 By [Plataformatec](http://plataformatec.com.br/).
